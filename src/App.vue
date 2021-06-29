@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Welcome to 김병현 배포 자동화 테스트" />
+  <HelloWorld msg="Welcome to 김병현 배포 자동화 실습, 유닛 테스트 동작 확인" />
 </template>
 
 <script>
